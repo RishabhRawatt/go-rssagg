@@ -1,0 +1,10 @@
+.env
+go-rssagg
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+.DS_Store
